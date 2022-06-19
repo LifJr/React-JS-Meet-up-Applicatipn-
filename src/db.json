@@ -1,0 +1,10 @@
+{
+  "meetups": [
+    {
+      "address": "address",
+      "description": "description",
+      "image": "https://media.istockphoto.com/photos/abstract-graphic-world-map-illustration-on-blue-background-big-data-picture-id1294021851",
+      "title": "Title"
+    }
+  ]
+}
